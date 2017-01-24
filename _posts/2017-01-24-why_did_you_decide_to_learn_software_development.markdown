@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Why did you decide to learn software development?"
-date:   2017-01-24 05:34:20 +0000
+title:  "Ugh, this question."
+date:   2017-01-24 00:34:20 -0500
 ---
 
-Ugh, this question. I have been squirming for a week since I saw the required topic. In person, I answer this differently depending on who asks it. The answer is not a lie; it’s just *a* truth:
+*Why did you decide to learn software development?*
+
+I have been squirming ever since I saw this required topic. In person, I answer this differently depending on who asks it. The answer is not a lie; it’s just *a* truth:
 
 * To show my kids the importance of knowing how to code with whatever they pursue
 * Because I like a challenge
@@ -19,4 +21,6 @@ The most vulgar truth is that I need the money. It’s an ugly truth and makes t
 
 The urgency of that need obfuscates another truth: I was always going to learn how to program. I learned a little online in my free time, then once I had the resources to put towards real classes it moved up my timeline to now. I have a list of things I want to accomplish—a bucket list of things I want to make and put out into the world. Some of the things I want to make are things that I will make with code. And some of those things I will make will be so much bigger than I am, but I will make it with other developers that I meet while I am working as a developer.
 
-These deeper truths take too long to explain, though. It costs too much of me to share my shame or my dreams. If we meet in person, I will give you a clever truth or a quick truth—a first-date pageant-answer kind of truth that leaves you feeling fuzzy. But they won't be the truths that keep me awake at night.
+These deeper truths take too long to explain, though. It costs too much of me to share my shame or my dreams. If we meet in person, I will give you a quick truth. A clever truth. A first-date pageant-answer kind of truth that leaves you feeling fuzzy.
+
+They just won't be the truths that keep me awake at night.
