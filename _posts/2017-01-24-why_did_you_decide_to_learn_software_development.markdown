@@ -6,7 +6,7 @@ date:   2017-01-24 00:34:20 -0500
 
 *Why did you decide to learn software development?*
 
-I have been squirming ever since I saw this required topic. In person, I answer this differently depending on who asks it. The answer is not a lie; it’s just *a* truth:
+I have been squirming inside since I saw this required topic. In person, I answer this differently depending on who asks it. The answer is not a lie; it’s just *a* truth:
 
 * To show my kids the importance of knowing how to code with whatever they pursue
 * Because I like a challenge
