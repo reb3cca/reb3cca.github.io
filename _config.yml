@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: reb3cca.fisher@gmail.com
 copyright_name: reb3cca
 description: > # this means to ignore newlines until "baseurl:"
-  Dream. Learn. Create. Repeat.
+  Dream. Learn. Build. Repeat.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: /the3nchanting
 github_username:  reb3cca
