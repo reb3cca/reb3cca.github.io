@@ -86,8 +86,8 @@ li {
 
 /* while header */
 .navbar-default {
-  background-color: transparent;
-  border-color: transparent;
+  background-color: white;
+  border-color: rgba(34, 34, 34, 0.1);
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -101,7 +101,7 @@ li {
       letter-spacing: 1px;
       color: #646468;
       &:hover, &:focus {
-        color: #fff;
+        color: #e91e63;
       }
     }
     .navbar-toggle {
