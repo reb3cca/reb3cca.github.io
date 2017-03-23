@@ -405,7 +405,7 @@ section {
   }
 }
 
-  /*///// FOOTER /////*/
+/*///// FOOTER /////*/
 
 footer {
   background-color: #222222;
@@ -466,6 +466,12 @@ footer {
 
 /*///// BLOG POSTS /////*/
 
+article #post {
+  display: inline;
+  img {
+    max-width: 95%
+  }
+}
 
 .intro-header {
   background: no-repeat center center;
@@ -540,6 +546,9 @@ footer {
         font-size: 2em;
       }
     }
+  }
+  article #post {
+    padding: 0 20px;
   }
 }
 
