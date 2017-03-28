@@ -5,7 +5,7 @@ date:   2017-03-28 01:46:23 +0000
 ---
 
 
-Programmers break down problems and tasks into small steps. It is so fundamental that it becomes an unconscious part of the programmer's thought process. This skill will needs to follow us outside of a text editor become a part of our way of seeing our larger work. Whether we are on a team as a part of a larger organization or whether we have a solo side-hustle, breaking down our tasks into a list we can see helps us see where they fit into the larger picture. 
+Programmers break down problems and tasks into small steps. This fundamental skill needs to follow us outside of a text editor and into the way we see our work itself. Whether we are on a team as a part of a larger organization or whether we have a solo side-hustle, breaking down our tasks into a list we can see helps us see where they fit into the larger picture. 
 
 To illustrate, this is a photo of my sister's to-do list. She is a senior .NET developer for a large, successful company. 
 <img src="http://i.imgur.com/6lU79Wt.jpg">
