@@ -8,7 +8,7 @@ date:   2017-03-28 01:46:23 +0000
 Programmers break down problems and tasks into small steps. This fundamental skill needs to follow us outside of a text editor and into the way we see our work itself. Whether we are on a team as a part of a larger organization or whether we have a solo side-hustle, breaking down our tasks into a list we can see helps us see where they fit into the larger picture. 
 
 To illustrate, this is a photo of my sister's to-do list. She is a senior .NET developer for a large, successful company. 
-<img src="http://i.imgur.com/6lU79Wt.jpg">
+<img src="http://i.imgur.com/6lU79Wt.jpg" width=75% >
 
 The first thing I noticed was that everything that touches her is listed. Even items shared across the department are on there, along with who is doing what tasks. Seeing how your work fits into the overall goals of your team let’s you know how to prioritize your work for the largest impact.
 
